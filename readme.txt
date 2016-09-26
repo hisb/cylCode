@@ -4,3 +4,4 @@ Git is free software distributed under the GPL.
 cal add
 
 new branch
+master add
